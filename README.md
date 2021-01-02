@@ -1,6 +1,7 @@
 ## Projet :
 
 :memo: **Sujet :**
+
 Utiliser l'API publique [Studio Ghibli API](https://ghibliapi.herokuapp.com/) (dépôt github disponible [ici](https://github.com/janaipakos/ghibliapi)) pour créer une page de recherche sur les films des studios Ghibli.
 
 :dart: **Dans cet exercice :**
