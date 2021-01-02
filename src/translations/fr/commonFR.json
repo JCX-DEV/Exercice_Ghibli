@@ -1,0 +1,13 @@
+{
+	"caption":{
+		"back": "Retour"
+	},
+	"placeholder":{
+		"search": "Recherche..."
+	},
+	"director": "Réalisateur",
+	"producer": "Producteur",
+	"release_date": "Date de sortie",
+	"running_time": "Durée",
+	"description": "Synopsis"
+}

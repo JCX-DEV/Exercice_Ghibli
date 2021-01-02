@@ -1,0 +1,54 @@
+.screen{
+	color: white;
+	width: 600px;
+	text-align: center;
+	margin: auto;
+}
+
+.screen-title{
+	background-image: url('../images/totoro-white.png');
+	background-repeat: no-repeat;
+  background-position: left;
+  height: 190px;
+  vertical-align: bottom;
+	display: table-cell;
+	padding-left: 145px;
+}
+
+.screen-title-block{
+	padding: 5px 20px 10px 20px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.title-block-upper{	
+	border-bottom: 2px solid white;
+}
+
+.title-block-lower{
+	display: block;
+	margin-top: 15px;
+}
+
+.screen-table-content{
+	display: table;
+	text-align: left;
+}
+
+.screen-table-row{
+	display: table-row;
+}
+
+.screen-table-cell{
+	display: table-cell;
+	padding: 5px;
+	text-align: justify;
+}
+
+.screen-title-column{
+	white-space: nowrap;
+}
+
+.screen-label{
+	font-weight: bold;
+}

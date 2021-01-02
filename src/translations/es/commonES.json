@@ -1,0 +1,13 @@
+{
+	"caption":{
+		"back": "Volver"
+	},
+	"placeholder":{
+		"search": "Buscar..."
+	},
+	"director": "Director",
+	"producer": "Productor",
+	"release_date": "Año",
+	"running_time": "Duración",
+	"description": "Sinopsis"
+}

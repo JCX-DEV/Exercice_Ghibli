@@ -1,0 +1,13 @@
+{
+	"caption":{
+		"back": "Back"
+	},
+	"placeholder":{
+		"search": "Search..."
+	},
+	"director": "Director",
+	"producer": "Producer",
+	"release_date": "Release date",
+	"running_time": "Running time",
+	"description": "Synopsis"
+}

@@ -1,0 +1,13 @@
+{
+	"caption":{
+		"back": "戻る"
+	},
+	"placeholder":{
+		"search": "検索・・・"
+	},
+	"director": "監督",
+	"producer": "製作",
+	"release_date": "公開",
+	"running_time": "上映時間",
+	"description": "あらすじ"
+}
