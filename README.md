@@ -6,6 +6,7 @@ Utiliser l'API publique [Studio Ghibli API](https://ghibliapi.herokuapp.com/) (d
 
 :dart: **Dans cet exercice :**
 - Utilisation d'une API
+- Asynchrone
 - Interface multilingue avec i18 Next
 - Hooks
 - Composants contrôlés
